@@ -12,6 +12,9 @@ body{
     background-color: var(--primary-color);
     margin: 0;
 }
+#main{
+    justify-content: center;
+}
 header{
     padding: 1rem;
     display: flex;
